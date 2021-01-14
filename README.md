@@ -15,6 +15,8 @@ It go through InterpretMl framework with basic and more concrete example dataset
 ## Notebook
 - [Notebook on GitHub](https://github.com/LudovicSterlin/sdd-aml-evaluation-interpretml/blob/master/InterpretML.ipynb)
 
-The notebbok was meant to be used with [`jupyter notebook`](https://jupyter.org/). But you can use colab if you prefer.
+The notebbok was meant to be used with [`jupyter notebook`](https://jupyter.org/). 
+
+Warning the general Dashboard from [InterpretML](https://github.com/interpretml/interpret), is not working on Colab until today (2021-01-11)!!! So you can use colab if you prefer but you will not be able to enjoy all the features of the Dashboard.
 
 - [Open on Colab](https://colab.research.google.com/github/LudovicSterlin/sdd-aml-evaluation-interpretml/blob/master/InterpretML.ipynb)
